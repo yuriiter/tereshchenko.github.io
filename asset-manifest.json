@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/first-react-app/static/css/main.6bbfed80.chunk.css",
+    "main.js": "/first-react-app/static/js/main.87891400.chunk.js",
+    "main.js.map": "/first-react-app/static/js/main.87891400.chunk.js.map",
+    "runtime-main.js": "/first-react-app/static/js/runtime-main.614f5af8.js",
+    "runtime-main.js.map": "/first-react-app/static/js/runtime-main.614f5af8.js.map",
+    "static/js/2.47bd79a6.chunk.js": "/first-react-app/static/js/2.47bd79a6.chunk.js",
+    "static/js/2.47bd79a6.chunk.js.map": "/first-react-app/static/js/2.47bd79a6.chunk.js.map",
+    "index.html": "/first-react-app/index.html",
+    "static/css/main.6bbfed80.chunk.css.map": "/first-react-app/static/css/main.6bbfed80.chunk.css.map",
+    "static/js/2.47bd79a6.chunk.js.LICENSE.txt": "/first-react-app/static/js/2.47bd79a6.chunk.js.LICENSE.txt",
+    "static/media/boy.mp4": "/first-react-app/static/media/boy.f3c295e7.mp4",
+    "static/media/cat.svg": "/first-react-app/static/media/cat.f1e619fb.svg",
+    "static/media/dog.svg": "/first-react-app/static/media/dog.2bc24bae.svg",
+    "static/media/fox.svg": "/first-react-app/static/media/fox.8aaf251a.svg",
+    "static/media/koala.svg": "/first-react-app/static/media/koala.4c9fd264.svg",
+    "static/media/lion.svg": "/first-react-app/static/media/lion.08f00e90.svg",
+    "static/media/logo.svg": "/first-react-app/static/media/logo.6ce24c58.svg",
+    "static/media/owl.svg": "/first-react-app/static/media/owl.89344be8.svg",
+    "static/media/penguin.svg": "/first-react-app/static/media/penguin.89e4e341.svg",
+    "static/media/pig.svg": "/first-react-app/static/media/pig.dc23449e.svg",
+    "static/media/raccoon.svg": "/first-react-app/static/media/raccoon.4ed15b50.svg",
+    "static/media/sheep.svg": "/first-react-app/static/media/sheep.3c422443.svg",
+    "static/media/shoe.mp4": "/first-react-app/static/media/shoe.6bb4d920.mp4",
+    "static/media/star.svg": "/first-react-app/static/media/star.dd913ac2.svg",
+    "static/media/star_active.svg": "/first-react-app/static/media/star_active.4238a646.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.614f5af8.js",
+    "static/js/2.47bd79a6.chunk.js",
+    "static/css/main.6bbfed80.chunk.css",
+    "static/js/main.87891400.chunk.js"
+  ]
+}
